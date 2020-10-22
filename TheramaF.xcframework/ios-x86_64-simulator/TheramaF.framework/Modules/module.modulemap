@@ -1,0 +1,11 @@
+framework module TheramaF {
+  umbrella header "TheramaF.h"
+
+  export *
+  module * { export * }
+}
+
+module TheramaF.Swift {
+    header "TheramaF-Swift.h"
+    requires objc
+}

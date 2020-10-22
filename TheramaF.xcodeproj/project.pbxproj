@@ -8,12 +8,14 @@
 
 /* Begin PBXBuildFile section */
 		076A9F8A2541ED0500DE2D52 /* TheramaF.h in Headers */ = {isa = PBXBuildFile; fileRef = 076A9F882541ED0500DE2D52 /* TheramaF.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		076A9F912541ED2000DE2D52 /* TheramaFGlobal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 076A9F902541ED2000DE2D52 /* TheramaFGlobal.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		076A9F852541ED0500DE2D52 /* TheramaF.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = TheramaF.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		076A9F882541ED0500DE2D52 /* TheramaF.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TheramaF.h; sourceTree = "<group>"; };
 		076A9F892541ED0500DE2D52 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		076A9F902541ED2000DE2D52 /* TheramaFGlobal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TheramaFGlobal.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -48,6 +50,7 @@
 			children = (
 				076A9F882541ED0500DE2D52 /* TheramaF.h */,
 				076A9F892541ED0500DE2D52 /* Info.plist */,
+				076A9F902541ED2000DE2D52 /* TheramaFGlobal.swift */,
 			);
 			path = TheramaF;
 			sourceTree = "<group>";
@@ -95,6 +98,7 @@
 				TargetAttributes = {
 					076A9F842541ED0500DE2D52 = {
 						CreatedOnToolsVersion = 11.7;
+						LastSwiftMigration = 1170;
 					};
 				};
 			};
@@ -131,6 +135,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				076A9F912541ED2000DE2D52 /* TheramaFGlobal.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -260,6 +265,7 @@
 		076A9F8E2541ED0500DE2D52 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEFINES_MODULE = YES;
 				DEVELOPMENT_TEAM = 57Q22577H2;
@@ -276,6 +282,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.therama.TheramaF;
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SKIP_INSTALL = YES;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -284,6 +291,7 @@
 		076A9F8F2541ED0500DE2D52 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEFINES_MODULE = YES;
 				DEVELOPMENT_TEAM = 57Q22577H2;
