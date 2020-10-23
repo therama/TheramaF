@@ -22,11 +22,11 @@
 		</data>
 		<key>Modules/TheramaF.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		PVk9ab2MCuoRnOgURfrYcRk4vZg=
+		0repyOpOQ9MLdHqh/EsxJAMNvy8=
 		</data>
 		<key>Modules/TheramaF.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		iwYt4k4hyoErxAXu3YbFpNw0YYE=
+		IvDnCvPTo3sIrRIu+5FAH55ncDs=
 		</data>
 		<key>Modules/TheramaF.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/TheramaF.swiftmodule/x86_64.swiftinterface</key>
 		<data>
-		PVk9ab2MCuoRnOgURfrYcRk4vZg=
+		0repyOpOQ9MLdHqh/EsxJAMNvy8=
 		</data>
 		<key>Modules/TheramaF.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		iwYt4k4hyoErxAXu3YbFpNw0YYE=
+		IvDnCvPTo3sIrRIu+5FAH55ncDs=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -72,14 +72,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			NYKjI/f7j8QUUfmMpVIn0EMnzL9qJ7kNoppYfGF3Fhc=
+			LwYSb1xTjayKVsXmlFoyRrCi/ujRCGsZaROHbNUg8kI=
 			</data>
 		</dict>
 		<key>Modules/TheramaF.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			oZL0UNXwZ9PSbbMZzXsZF2eKx/GF2fC7QUiKosP2BHw=
+			n88FBzzO0ur5eqyBfPLyY/PXwUulHjtcnNkZP0nsGIA=
 			</data>
 		</dict>
 		<key>Modules/TheramaF.swiftmodule/x86_64.swiftdoc</key>
@@ -93,14 +93,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			NYKjI/f7j8QUUfmMpVIn0EMnzL9qJ7kNoppYfGF3Fhc=
+			LwYSb1xTjayKVsXmlFoyRrCi/ujRCGsZaROHbNUg8kI=
 			</data>
 		</dict>
 		<key>Modules/TheramaF.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			oZL0UNXwZ9PSbbMZzXsZF2eKx/GF2fC7QUiKosP2BHw=
+			n88FBzzO0ur5eqyBfPLyY/PXwUulHjtcnNkZP0nsGIA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

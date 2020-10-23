@@ -6,5 +6,6 @@ import Swift
 @_exported import TheramaF
 @_hasMissingDesignatedInitializers public class TheramaFGlobal {
   public static var title: Swift.String
+  public static var subtitle: Swift.String
   @objc deinit
 }

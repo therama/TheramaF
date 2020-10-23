@@ -22,11 +22,11 @@
 		</data>
 		<key>Modules/TheramaF.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		/g+DvZchgLzjRetStILqD51y7ww=
+		23tx1frJw0MNgJYVT91GtaKlz5w=
 		</data>
 		<key>Modules/TheramaF.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		+KzEx53LkKPKw+bXb93vm5uKmTM=
+		Zv+2M/ted21hQt5oPHSKapzWNf0=
 		</data>
 		<key>Modules/TheramaF.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/TheramaF.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		/g+DvZchgLzjRetStILqD51y7ww=
+		23tx1frJw0MNgJYVT91GtaKlz5w=
 		</data>
 		<key>Modules/TheramaF.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		+KzEx53LkKPKw+bXb93vm5uKmTM=
+		Zv+2M/ted21hQt5oPHSKapzWNf0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -72,14 +72,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pJKyOaNYV8RFmnyL5qpe3LBVIIvi2zh9knFWSV7EWfc=
+			fQm4NirnNZDfTl3oSNq/b3VG4nLZs4sTWUVWvwLwyQQ=
 			</data>
 		</dict>
 		<key>Modules/TheramaF.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VpBK/Mb+lFDtaaej0Dy/9/Jo5NvacjqgC0HglI5SiaE=
+			Ntt96/xXog9g4cu8TSq8GLzEb3vOkvBDyvM4YB7xGE0=
 			</data>
 		</dict>
 		<key>Modules/TheramaF.swiftmodule/arm64.swiftdoc</key>
@@ -93,14 +93,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pJKyOaNYV8RFmnyL5qpe3LBVIIvi2zh9knFWSV7EWfc=
+			fQm4NirnNZDfTl3oSNq/b3VG4nLZs4sTWUVWvwLwyQQ=
 			</data>
 		</dict>
 		<key>Modules/TheramaF.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VpBK/Mb+lFDtaaej0Dy/9/Jo5NvacjqgC0HglI5SiaE=
+			Ntt96/xXog9g4cu8TSq8GLzEb3vOkvBDyvM4YB7xGE0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
