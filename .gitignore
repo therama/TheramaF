@@ -1,4 +1,5 @@
 archives
+/TheramaF
 TheramaF.xcodeproj
 build_xcframework.sh
 TheramaF.podspec
